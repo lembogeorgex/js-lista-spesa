@@ -12,5 +12,6 @@ console.log(arrayStrings)
 let i = 0;
 while (i < arrayStrings.length) {
     console.log(arrayStrings[i])
+    myList.innerText = (arrayStrings)
     i++;
 }
