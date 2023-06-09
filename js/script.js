@@ -1,5 +1,7 @@
 console.log("js ok ")
 
+document.getElementById = ("myList")
+console.log(myList)
 
 const arrayStrings = ["latte", "pane", "uova"]
 console.log(arrayStrings)
